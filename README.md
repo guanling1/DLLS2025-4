@@ -1,6 +1,6 @@
 # DLLS2025-4
 # Introduction
-DLLS2025-4 is the real availability data for the paper "A Text Line Segmentation method for Ancient Tai Lue Palm-leaf Manuscript Images combining cemantic and edge cues.
+DLLS2025-4 is the real availability data for the paper "A Text Line Segmentation Method for Ancient Tai Lue Palm-leaf Manuscript Images Combining Semantic and Edge Cues".
 # Get DLLS2025-4
 You can obtain CEMLT data through the following method:
 
